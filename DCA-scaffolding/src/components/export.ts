@@ -1,0 +1,1 @@
+export {default as productcard} from "../components/card/card"
